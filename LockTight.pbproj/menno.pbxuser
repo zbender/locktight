@@ -1,0 +1,615 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA = {
+		activeBuildStyle = 4A9504CDFFE6A4B311CA0CBA;
+		activeExecutable = DEDAB30905664F6400F4CEB5;
+		activeTarget = D4EE8D00047F0A6D00A87BC9;
+		executables = (
+			DEDAB30905664F6400F4CEB5,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 90624195;
+			PBXWorkspaceContents = (
+				{
+					LeftSlideOut = {
+						Split0 = {
+							Split0 = {
+								NavContent0 = {
+									bookmark = DE6C7DAE0566D0E700AB0955;
+									history = (
+										DEDAB30A0566CFCB00F4CEB5,
+										DEDAB30B0566CFCB00F4CEB5,
+										DEDAB30C0566CFCB00F4CEB5,
+										DEDAB30D0566CFCB00F4CEB5,
+										DEDAB30E0566CFCB00F4CEB5,
+										DEDAB30F0566CFCB00F4CEB5,
+										DEDAB3100566CFCB00F4CEB5,
+										DEDAB3110566CFCB00F4CEB5,
+										DEDAB3120566CFCB00F4CEB5,
+										DEDAB3130566CFCB00F4CEB5,
+										DEDAB3140566CFCB00F4CEB5,
+										DEDAB3150566CFCB00F4CEB5,
+										DEDAB3160566CFCB00F4CEB5,
+										DEDAB3170566CFCB00F4CEB5,
+										DEDAB32A0566CFCB00F4CEB5,
+									);
+									prevStack = (
+										DEDAB3190566CFCB00F4CEB5,
+										DEDAB31A0566CFCB00F4CEB5,
+										DEDAB31B0566CFCB00F4CEB5,
+										DEDAB31C0566CFCB00F4CEB5,
+										DEDAB31D0566CFCB00F4CEB5,
+										DEDAB31E0566CFCB00F4CEB5,
+										DEDAB31F0566CFCB00F4CEB5,
+										DEDAB3200566CFCB00F4CEB5,
+										DEDAB3210566CFCB00F4CEB5,
+										DEDAB3220566CFCB00F4CEB5,
+										DEDAB3230566CFCB00F4CEB5,
+										DEDAB3240566CFCB00F4CEB5,
+										DEDAB3250566CFCB00F4CEB5,
+										DEDAB3260566CFCB00F4CEB5,
+										DEDAB3270566CFCB00F4CEB5,
+										DEDAB3280566CFCB00F4CEB5,
+										DEDAB3290566CFCB00F4CEB5,
+									);
+								};
+								NavCount = 1;
+								NavGeometry0 = {
+									Frame = "{{0, 0}, {867, 288}}";
+									NavBarVisible = YES;
+								};
+								NavSplitVertical = NO;
+							};
+							SplitCount = 1;
+							Tab1 = {
+								Debugger = {
+									Split0 = {
+										SplitCount = 2;
+									};
+									SplitCount = 1;
+									TabCount = 2;
+								};
+								LauncherConfigVersion = 7;
+							};
+							Tab2 = {
+								LauncherConfigVersion = 3;
+								Runner = {
+								};
+							};
+							TabCount = 5;
+						};
+						SplitCount = 1;
+						Tab1 = {
+							OptionsSetName = "Hierarchy, all classes";
+						};
+						TabCount = 5;
+					};
+				},
+			);
+			PBXWorkspaceGeometries = (
+				{
+					ContentSize = "{1151, 600}";
+					LeftSlideOut = {
+						ActiveTab = 0;
+						ActiveTabName = PBXGroupTreeModule;
+						Collapsed = NO;
+						Frame = "{{0, 23}, {1151, 577}}";
+						Split0 = {
+							ActiveTab = 2;
+							ActiveTabName = PBXBuildResultsModule;
+							Collapsed = NO;
+							Frame = "{{284, 0}, {867, 577}}";
+							Split0 = {
+								Frame = "{{0, 289}, {867, 288}}";
+							};
+							SplitCount = 1;
+							Tab0 = {
+								Frame = "{{0, 0}, {572, 214}}";
+							};
+							Tab1 = {
+								Debugger = {
+									Collapsed = NO;
+									Frame = "{{0, 0}, {572, 150}}";
+									Split0 = {
+										Frame = "{{0, 24}, {572, 126}}";
+										Split0 = {
+											Frame = "{{0, 0}, {279, 126}}";
+										};
+										Split1 = {
+											DebugVariablesTableConfiguration = (
+												Name,
+												123,
+												Value,
+												85,
+												Summary,
+												62.123,
+											);
+											Frame = "{{288, 0}, {284, 126}}";
+										};
+										SplitCount = 2;
+									};
+									SplitCount = 1;
+									Tab0 = {
+										Frame = "{{0, 0}, {100, 50}}";
+									};
+									Tab1 = {
+										Frame = "{{0, 0}, {100, 50}}";
+									};
+									TabCount = 2;
+									TabsVisible = YES;
+								};
+								Frame = "{{0, 0}, {572, 125}}";
+								LauncherConfigVersion = 7;
+							};
+							Tab2 = {
+								Frame = "{{0, 0}, {572, 127}}";
+								LauncherConfigVersion = 3;
+								Runner = {
+									Frame = "{{0, 0}, {572, 127}}";
+								};
+							};
+							Tab3 = {
+								BuildMessageFrame = "{{0, 0}, {869, 232}}";
+								BuildTranscriptFrame = "{{0, 241}, {869, 2}}";
+								BuildTranscriptFrameExpanded = YES;
+								Frame = "{{0, 0}, {867, 265}}";
+							};
+							Tab4 = {
+								Frame = "{{0, 0}, {612, 295}}";
+							};
+							TabCount = 5;
+							TabsVisible = YES;
+						};
+						SplitCount = 1;
+						Tab0 = {
+							Frame = "{{0, 0}, {260, 577}}";
+							GroupTreeTableConfiguration = (
+								TargetStatusColumn,
+								18,
+								MainColumn,
+								227,
+							);
+						};
+						Tab1 = {
+							ClassesFrame = "{{0, 0}, {247, 330}}";
+							ClassesTreeTableConfiguration = (
+								PBXBookColumnIdentifier,
+								20,
+								PBXClassColumnIdentifier,
+								204,
+							);
+							Frame = "{{0, 0}, {245, 549}}";
+							MembersFrame = "{{0, 339}, {247, 210}}";
+							MembersTreeTableConfiguration = (
+								PBXBookColumnIdentifier,
+								20,
+								PBXMethodColumnIdentifier,
+								203,
+							);
+						};
+						Tab2 = {
+							Frame = "{{0, 0}, {226, 549}}";
+						};
+						Tab3 = {
+							Frame = "{{0, 0}, {191, 577}}";
+							TargetTableConfiguration = (
+								ActiveObject,
+								16,
+								ObjectNames,
+								202.296,
+							);
+						};
+						Tab4 = {
+							BreakpointsTreeTableConfiguration = (
+								breakpointColumn,
+								138,
+								enabledColumn,
+								31,
+							);
+							Frame = "{{0, 0}, {191, 549}}";
+						};
+						TabCount = 5;
+						TabsVisible = YES;
+					};
+					NavBarShownByDefault = YES;
+					StatusViewVisible = YES;
+					Template = F5F68CF101725D4C0D7A8F4C;
+					ToolbarVisible = YES;
+					WindowLocation = "{5, 216}";
+				},
+			);
+			PBXWorkspaceStateSaveDate = 90624195;
+		};
+		perUserProjectItems = {
+			DE6C7DAE0566D0E700AB0955 = DE6C7DAE0566D0E700AB0955;
+			DEDAB30A0566CFCB00F4CEB5 = DEDAB30A0566CFCB00F4CEB5;
+			DEDAB30B0566CFCB00F4CEB5 = DEDAB30B0566CFCB00F4CEB5;
+			DEDAB30C0566CFCB00F4CEB5 = DEDAB30C0566CFCB00F4CEB5;
+			DEDAB30D0566CFCB00F4CEB5 = DEDAB30D0566CFCB00F4CEB5;
+			DEDAB30E0566CFCB00F4CEB5 = DEDAB30E0566CFCB00F4CEB5;
+			DEDAB30F0566CFCB00F4CEB5 = DEDAB30F0566CFCB00F4CEB5;
+			DEDAB3100566CFCB00F4CEB5 = DEDAB3100566CFCB00F4CEB5;
+			DEDAB3110566CFCB00F4CEB5 = DEDAB3110566CFCB00F4CEB5;
+			DEDAB3120566CFCB00F4CEB5 = DEDAB3120566CFCB00F4CEB5;
+			DEDAB3130566CFCB00F4CEB5 = DEDAB3130566CFCB00F4CEB5;
+			DEDAB3140566CFCB00F4CEB5 = DEDAB3140566CFCB00F4CEB5;
+			DEDAB3150566CFCB00F4CEB5 = DEDAB3150566CFCB00F4CEB5;
+			DEDAB3160566CFCB00F4CEB5 = DEDAB3160566CFCB00F4CEB5;
+			DEDAB3170566CFCB00F4CEB5 = DEDAB3170566CFCB00F4CEB5;
+			DEDAB3190566CFCB00F4CEB5 = DEDAB3190566CFCB00F4CEB5;
+			DEDAB31A0566CFCB00F4CEB5 = DEDAB31A0566CFCB00F4CEB5;
+			DEDAB31B0566CFCB00F4CEB5 = DEDAB31B0566CFCB00F4CEB5;
+			DEDAB31C0566CFCB00F4CEB5 = DEDAB31C0566CFCB00F4CEB5;
+			DEDAB31D0566CFCB00F4CEB5 = DEDAB31D0566CFCB00F4CEB5;
+			DEDAB31E0566CFCB00F4CEB5 = DEDAB31E0566CFCB00F4CEB5;
+			DEDAB31F0566CFCB00F4CEB5 = DEDAB31F0566CFCB00F4CEB5;
+			DEDAB3200566CFCB00F4CEB5 = DEDAB3200566CFCB00F4CEB5;
+			DEDAB3210566CFCB00F4CEB5 = DEDAB3210566CFCB00F4CEB5;
+			DEDAB3220566CFCB00F4CEB5 = DEDAB3220566CFCB00F4CEB5;
+			DEDAB3230566CFCB00F4CEB5 = DEDAB3230566CFCB00F4CEB5;
+			DEDAB3240566CFCB00F4CEB5 = DEDAB3240566CFCB00F4CEB5;
+			DEDAB3250566CFCB00F4CEB5 = DEDAB3250566CFCB00F4CEB5;
+			DEDAB3260566CFCB00F4CEB5 = DEDAB3260566CFCB00F4CEB5;
+			DEDAB3270566CFCB00F4CEB5 = DEDAB3270566CFCB00F4CEB5;
+			DEDAB3280566CFCB00F4CEB5 = DEDAB3280566CFCB00F4CEB5;
+			DEDAB3290566CFCB00F4CEB5 = DEDAB3290566CFCB00F4CEB5;
+			DEDAB32A0566CFCB00F4CEB5 = DEDAB32A0566CFCB00F4CEB5;
+		};
+		projectwideBuildSettings = {
+		};
+		wantsIndex = 1;
+		wantsSCM = -1;
+	};
+	29B97326FDCFA39411CA2CEA = {
+		activeExec = 0;
+		executables = (
+			DEDAB30905664F6400F4CEB5,
+		);
+	};
+	D4E85FC904803ED500A87BC9 = {
+		activeExec = 0;
+	};
+	D4EE8D00047F0A6D00A87BC9 = {
+		activeExec = 0;
+	};
+	DE6C7DAE0566D0E700AB0955 = {
+		isa = PBXTargetBookmark;
+		trg = D4E85FC904803ED500A87BC9;
+		uiCtxt = {
+			TOCViewDetailVisibleRect = "{{0, 0}, {592, 233}}";
+			TOCViewExpandedItems = (
+				"com.apple.target-editor-pane.settings",
+				"com.apple.target-editor-pane.settings.simple",
+				"com.apple.target-editor-pane.info-plist",
+				"com.apple.target-editor-pane.info-plist.simple",
+				"com.apple.target-editor-pane.buildphases",
+			);
+			TOCViewMasterVisibleRect = "{{0, 0}, {236, 234}}";
+			TOCViewSelectedItems = (
+				PBXTargetSummarySettingsModule,
+			);
+		};
+	};
+	DEDAB30905664F6400F4CEB5 = {
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		configStateDict = {
+		};
+		debuggerPlugin = GDBDebugging;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		isa = PBXExecutable;
+		name = SleepTightAgent;
+		shlibInfoDictList = (
+		);
+		sourceDirectories = (
+		);
+	};
+	DEDAB30A0566CFCB00F4CEB5 = {
+		fRef = D4EE8D12047F0DB600A87BC9;
+		isa = PBXTextBookmark;
+		name = "SleepTight.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1212;
+		vrLoc = 515;
+	};
+	DEDAB30B0566CFCB00F4CEB5 = {
+		fRef = D46336EB04801D6D00A87BC9;
+		isa = PBXTextBookmark;
+		name = "SleepTightDefaults.h: 24";
+		rLen = 0;
+		rLoc = 860;
+		rType = 0;
+		vrLen = 971;
+		vrLoc = 934;
+	};
+	DEDAB30C0566CFCB00F4CEB5 = {
+		fRef = D4C47004047F2E8C00A87BC9;
+		isa = PBXTextBookmark;
+		name = "SleepTightSaverPref.h: 13";
+		rLen = 0;
+		rLoc = 258;
+		rType = 0;
+		vrLen = 1154;
+		vrLoc = 0;
+	};
+	DEDAB30D0566CFCB00F4CEB5 = {
+		fRef = D48906DC047F450A00A87BC9;
+		isa = PBXTextBookmark;
+		name = "SleepTightSaverPref.m: 15";
+		rLen = 0;
+		rLoc = 405;
+		rType = 0;
+		vrLen = 779;
+		vrLoc = 1195;
+	};
+	DEDAB30E0566CFCB00F4CEB5 = {
+		fRef = D4EF0D640480378C00A87BC9;
+		isa = PBXTextBookmark;
+		name = "SleepLockBezel.h: 17";
+		rLen = 0;
+		rLoc = 540;
+		rType = 0;
+		vrLen = 1088;
+		vrLoc = 84;
+	};
+	DEDAB30F0566CFCB00F4CEB5 = {
+		fRef = D4C7110F048167F400A87BC9;
+		isa = PBXTextBookmark;
+		name = "SleepTightKeyCode.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 505;
+		vrLoc = 0;
+	};
+	DEDAB3100566CFCB00F4CEB5 = {
+		fRef = D4A00C20048041C700A87BC9;
+		isa = PBXTextBookmark;
+		name = "SleepTightPref.h: 84";
+		rLen = 0;
+		rLoc = 2862;
+		rType = 0;
+		vrLen = 465;
+		vrLoc = 2397;
+	};
+	DEDAB3110566CFCB00F4CEB5 = {
+		fRef = D4A00C1F048041C700A87BC9;
+		isa = PBXTextBookmark;
+		name = "SleepTightPref.m: updateControls";
+		rLen = 0;
+		rLoc = 6496;
+		rType = 0;
+		vrLen = 583;
+		vrLoc = 5914;
+	};
+	DEDAB3120566CFCB00F4CEB5 = {
+		fRef = D4EE8D06047F0ACB00A87BC9;
+		isa = PBXTextBookmark;
+		name = "main.m: 30";
+		rLen = 0;
+		rLoc = 887;
+		rType = 0;
+		vrLen = 581;
+		vrLoc = 306;
+	};
+	DEDAB3130566CFCB00F4CEB5 = {
+		fRef = D40A48800484682500A87BC9;
+		isa = PBXTextBookmark;
+		name = "ScreenSaverControl.h: 15";
+		rLen = 0;
+		rLoc = 319;
+		rType = 0;
+		vrLen = 360;
+		vrLoc = 384;
+	};
+	DEDAB3140566CFCB00F4CEB5 = {
+		exec = DEDAB30905664F6400F4CEB5;
+		isa = PBXExecutableBookmark;
+	};
+	DEDAB3150566CFCB00F4CEB5 = {
+		isa = PBXTargetBookmark;
+		trg = D4EE8D00047F0A6D00A87BC9;
+	};
+	DEDAB3160566CFCB00F4CEB5 = {
+		fRef = D4EE8D0E047F0D4300A87BC9;
+		isa = PBXTextBookmark;
+		name = "SleepTightAgent.m: 27";
+		rLen = 0;
+		rLoc = 890;
+		rType = 0;
+		vrLen = 385;
+		vrLoc = 856;
+	};
+	DEDAB3170566CFCB00F4CEB5 = {
+		fRef = D4EE8D0D047F0D4300A87BC9;
+		isa = PBXTextBookmark;
+		name = "SleepTightAgent.h: configFromPrefs:";
+		rLen = 0;
+		rLoc = 1756;
+		rType = 0;
+		vrLen = 593;
+		vrLoc = 0;
+	};
+	DEDAB3190566CFCB00F4CEB5 = {
+		fRef = D4EE8D12047F0DB600A87BC9;
+		isa = PBXTextBookmark;
+		name = "SleepTight.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1212;
+		vrLoc = 515;
+	};
+	DEDAB31A0566CFCB00F4CEB5 = {
+		fRef = D46336EB04801D6D00A87BC9;
+		isa = PBXTextBookmark;
+		name = "SleepTightDefaults.h: 24";
+		rLen = 0;
+		rLoc = 860;
+		rType = 0;
+		vrLen = 971;
+		vrLoc = 934;
+	};
+	DEDAB31B0566CFCB00F4CEB5 = {
+		fRef = D4C47004047F2E8C00A87BC9;
+		isa = PBXTextBookmark;
+		name = "SleepTightSaverPref.h: 13";
+		rLen = 0;
+		rLoc = 258;
+		rType = 0;
+		vrLen = 1154;
+		vrLoc = 0;
+	};
+	DEDAB31C0566CFCB00F4CEB5 = {
+		fRef = D48906DC047F450A00A87BC9;
+		isa = PBXTextBookmark;
+		name = "SleepTightSaverPref.m: 15";
+		rLen = 0;
+		rLoc = 405;
+		rType = 0;
+		vrLen = 779;
+		vrLoc = 1195;
+	};
+	DEDAB31D0566CFCB00F4CEB5 = {
+		fRef = D4EE8D06047F0ACB00A87BC9;
+		isa = PBXTextBookmark;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 951;
+		vrLoc = 0;
+	};
+	DEDAB31E0566CFCB00F4CEB5 = {
+		fRef = D40A48800484682500A87BC9;
+		isa = PBXTextBookmark;
+		name = "ScreenSaverControl.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 744;
+		vrLoc = 0;
+	};
+	DEDAB31F0566CFCB00F4CEB5 = {
+		fRef = D4EF0D640480378C00A87BC9;
+		isa = PBXTextBookmark;
+		name = "SleepLockBezel.h: 17";
+		rLen = 0;
+		rLoc = 540;
+		rType = 0;
+		vrLen = 1088;
+		vrLoc = 84;
+	};
+	DEDAB3200566CFCB00F4CEB5 = {
+		fRef = D40A48800484682500A87BC9;
+		isa = PBXTextBookmark;
+		name = "ScreenSaverControl.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 744;
+		vrLoc = 0;
+	};
+	DEDAB3210566CFCB00F4CEB5 = {
+		fRef = D4EE8D0D047F0D4300A87BC9;
+		isa = PBXTextBookmark;
+		name = "SleepTightAgent.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1227;
+		vrLoc = 0;
+	};
+	DEDAB3220566CFCB00F4CEB5 = {
+		fRef = D4EE8D0E047F0D4300A87BC9;
+		isa = PBXTextBookmark;
+		name = "SleepTightAgent.m: ioNotify";
+		rLen = 0;
+		rLoc = 1518;
+		rType = 0;
+		vrLen = 407;
+		vrLoc = 2039;
+	};
+	DEDAB3230566CFCB00F4CEB5 = {
+		fRef = D4C7110F048167F400A87BC9;
+		isa = PBXTextBookmark;
+		name = "SleepTightKeyCode.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 505;
+		vrLoc = 0;
+	};
+	DEDAB3240566CFCB00F4CEB5 = {
+		fRef = D4A00C1F048041C700A87BC9;
+		isa = PBXTextBookmark;
+		name = "SleepTightPref.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 580;
+		vrLoc = 0;
+	};
+	DEDAB3250566CFCB00F4CEB5 = {
+		fRef = D4A00C20048041C700A87BC9;
+		isa = PBXTextBookmark;
+		name = "SleepTightPref.h: 84";
+		rLen = 0;
+		rLoc = 2862;
+		rType = 0;
+		vrLen = 465;
+		vrLoc = 2397;
+	};
+	DEDAB3260566CFCB00F4CEB5 = {
+		fRef = D4A00C1F048041C700A87BC9;
+		isa = PBXTextBookmark;
+		name = "SleepTightPref.m: updateControls";
+		rLen = 0;
+		rLoc = 6496;
+		rType = 0;
+		vrLen = 583;
+		vrLoc = 5914;
+	};
+	DEDAB3270566CFCB00F4CEB5 = {
+		fRef = D4EE8D06047F0ACB00A87BC9;
+		isa = PBXTextBookmark;
+		name = "main.m: 30";
+		rLen = 0;
+		rLoc = 887;
+		rType = 0;
+		vrLen = 581;
+		vrLoc = 306;
+	};
+	DEDAB3280566CFCB00F4CEB5 = {
+		fRef = D40A48800484682500A87BC9;
+		isa = PBXTextBookmark;
+		name = "ScreenSaverControl.h: 15";
+		rLen = 0;
+		rLoc = 319;
+		rType = 0;
+		vrLen = 360;
+		vrLoc = 384;
+	};
+	DEDAB3290566CFCB00F4CEB5 = {
+		fRef = D4EE8D0D047F0D4300A87BC9;
+		isa = PBXTextBookmark;
+		name = "SleepTightAgent.h: configFromPrefs:";
+		rLen = 0;
+		rLoc = 1756;
+		rType = 0;
+		vrLen = 593;
+		vrLoc = 0;
+	};
+	DEDAB32A0566CFCB00F4CEB5 = {
+		isa = PBXTargetBookmark;
+		trg = D4E85FC904803ED500A87BC9;
+	};
+}
